@@ -1,6 +1,6 @@
 # Simultaneous Translation
 
-This repository collects the tookits, common datasets and paper list related to the research on **Simultaneous Translation**.
+Original Repo: Refer to [https://github.com/zhangshaolei1998/Awesome-Simultaneous-Translation](https://github.com/zhangshaolei1998/Awesome-Simultaneous-Translation)
 
 <img src="./wordcloud.png" alt="wordcloud" style="zoom: 33%;" />
 
