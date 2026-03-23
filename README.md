@@ -40,7 +40,7 @@ This is a paper list of Simultaneous Translation, organized by publication year.
 
 We also collect a paper list organized by different categories. Refer to [Here](https://github.com/Vily1998/Awesome-Simultaneous-Translation/blob/main/Papers%20by%20Categories.md).
 
-[2002](#2002) | [2006](#2006) | [2007](#2007) | [2009](#2009) | [2010](#2010) | [2012](#2012) | [2013](#2013) | [2014](#2014) | [2015](#2015) | [2016](#2016) | [2017](#2017) | [2018](#2018) | [2019](#2019) | [2020](#2020) | [2021](#2021) | [2022](#2022) | [2023](#2023) |
+[2002](#2002) | [2006](#2006) | [2007](#2007) | [2009](#2009) | [2010](#2010) | [2012](#2012) | [2013](#2013) | [2014](#2014) | [2015](#2015) | [2016](#2016) | [2017](#2017) | [2018](#2018) | [2019](#2019) | [2020](#2020) | [2021](#2021) | [2022](#2022) | [2023](#2023) | [2024](#2024) | [2025](#2025) | [2026](#2026) |
 
 
 
@@ -328,7 +328,31 @@ We also collect a paper list organized by different categories. Refer to [Here](
 
 - Adapting Offline Speech Translation Models for Streaming with Future-Aware Distillation and Inference. *Arxiv 2023*. [[PDF](https://arxiv.org/pdf/2303.07914v1.pdf)]
 
+### <a id="2024">2024</a>
+- StreamSpeech: Simultaneous Speech-to-Speech Translation with Multi-task Learning. *ACL 2024*. [[PDF](https://aclanthology.org/2024.acl-long.485.pdf)][[Code](https://github.com/ictnlp/StreamSpeech)]
+  
+- TRANSLLAMA: LLM-based Simultaneous Translation System. *emnlp 2024*. [[PDF](https://aclanthology.org/2024.findings-emnlp.27.pdf)][[Code](https://github.com/RomanKoshkin/transllama)]
+  
+- Simultaneous Machine Translation with Large Language Models. *alta 2024*. [[PDF](https://aclanthology.org/2024.alta-1.7.pdf)][[Code](https://github.com/yuriak/LLM-SimulMT)]
+  
+- SiLLM: Large Language Models for Simultaneous Machine Translation. *Arxiv 2024* [[PDF](https://arxiv.org/html/2402.13036v1)]
+  
+- Decoder-only Streaming Transformer for Simultaneous Translation. *ACL 2024* [[PDF](https://aclanthology.org/2024.acl-long.480.pdf)]
+  
+- Self-Modifying State Modeling for Simultaneous Machine Translation. *ACL 2024* [[PDF](https://aclanthology.org/2024.acl-long.528.pdf)]
+  
+### <a id="2025">2025</a>
+- Conversational SIMULMT: Efficient Simultaneous Translation with Large Language Models. *iwslt2025*. [[PDF](https://aclanthology.org/2025.iwslt-1.8.pdf)]
 
+- LLMsCanAchieve High-quality Simultaneous Machine Translation as Efficiently as Offline. *ACL2025*. [[PDF](https://aclanthology.org/2025.findings-acl.1045.pdf)]
+  
+- Efficient and Adaptive Simultaneous Speech Translation with Fully Unidirectional Architecture. *Arxiv2025*. [[PDF](https://arxiv.org/pdf/2504.11809)]
+
+- Agent-SiMT: Agent-assisted Simultaneous Machine Translation with Large Language Models. *IEEE 2025* [[PDF](https://ieeexplore.ieee.org/document/10981621)]
+
+- Anticipating Future with Large Language Model for Simultaneous Machine Translation. *Arxiv 2025* [[PDF](https://arxiv.org/pdf/2410.22499)]
+
+### <a id="2026">2026</a>
 ## Workshops
 
 ### IWSLT 2020
