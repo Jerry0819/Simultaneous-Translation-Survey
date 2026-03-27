@@ -350,7 +350,7 @@ We also collect a paper list organized by different categories. Refer to [Here](
 
 - Agent-SiMT: Agent-assisted Simultaneous Machine Translation with Large Language Models. *IEEE 2025* [[PDF](https://ieeexplore.ieee.org/document/10981621)]
 
-- Anticipating Future with Large Language Model for Simultaneous Machine Translation. *Arxiv 2025* [[PDF](https://arxiv.org/pdf/2410.22499)]
+- Anticipating Future with Large Language Model for Simultaneous Machine Translation. *naacl 2025* [[PDF](https://aclanthology.org/2025.naacl-long.286.pdf)]
 
 ### <a id="2026">2026</a>
 ## Workshops
